@@ -1,0 +1,2 @@
+# Text-Editor
+A program which implements a core concept of File Handling in C++. This is a rudimentary program from scratch written sheerly from the concepts taught in my higher secondary classes. The lack of GUI implementation topics in my higher secondary curbed its use in the project. One of my future projects will be my attempt at implementing GUI and refurbishing this project for a smoother UI. This is my first ever major project I've worked on and will be improving it in upcoming project.
