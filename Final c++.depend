@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1548876951 source:c:\users\user\desktop\final c++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<sys/types.h>
+	<sys/stat.h>
+	<cerrno>
+	<process.h>
+
+1627444066 source:c:\users\admin\desktop\folders\c++finals\final c++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<sys/types.h>
+	<sys/stat.h>
+	<cerrno>
+	<process.h>
+
